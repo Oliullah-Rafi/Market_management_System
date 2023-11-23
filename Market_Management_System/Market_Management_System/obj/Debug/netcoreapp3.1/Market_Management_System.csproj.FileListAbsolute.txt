@@ -1,0 +1,107 @@
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.exe
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.deps.json
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.json
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form1.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Properties.Resources.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfo.cs
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.genruntimeconfig.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.exe
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.deps.json
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.json
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Properties.Resources.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfo.cs
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.genruntimeconfig.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form2.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form3.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form4.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form5.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form6.resources
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form8.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.exe
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.deps.json
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.json
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.dev.json
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form2.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form3.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form4.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form5.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form6.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form7.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form8.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Properties.Resources.resources
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfo.cs
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.genruntimeconfig.cache
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\Telegram Desktop\UpdateMMS\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.CopyComplete
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.exe
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.deps.json
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.json
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.runtimeconfig.dev.json
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form2.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form3.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form4.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form5.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form6.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form7.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form8.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Properties.Resources.resources
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.GenerateResource.cache
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.AssemblyInfo.cs
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.CopyComplete
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.dll
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.pdb
+C:\Users\acer\Downloads\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.genruntimeconfig.cache
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.csproj.CopyComplete
+C:\Users\acer\source\repos\Market_Management_System\Market_Management_System\Market_Management_System\obj\Debug\netcoreapp3.1\Market_Management_System.Form9.resources
